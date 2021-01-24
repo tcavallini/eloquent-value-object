@@ -4,7 +4,7 @@
   "keywords": ["laravel", "eloquent", "value object", "attribute", "mutator"],
   "homepage": "https://github.com/tdrcavallini/eloquent-value-object",
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=7.0",
     "illuminate/support": "^5.1"
   },
   "require-dev": {
